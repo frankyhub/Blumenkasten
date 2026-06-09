@@ -1,10 +1,10 @@
 # Blumenkasten aus Holz
 
-![pic](pic/Blumenkasten)
+![pic](pic/Blumenkasten.png)
 
-![pic](pic/Blumenkasten0)
+![pic](pic/Blumenkasten0.png)
 
-![pic](pic/Blumenkasten2)
+![pic](pic/Blumenkasten2.png)
 
 -------------------------------------------
 
