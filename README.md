@@ -4,7 +4,7 @@
 
 <div align="center">
   
-|[:skull:ISSUE](https://github.com/frankyhub/Blumenkasten/issues)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/Blumenkasten/discussions)|[:grey_question:WiKi](https://github.com/frankyhub/Blumenkasten/blob/main/wiki.md)|[:grey_question:Linux-Befehle](https://github.com/frankyhub/Blumenkasten/blob/main/Linux_Befehle.md)||
+|[:skull:ISSUE](https://github.com/frankyhub/Blumenkasten/issues)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/Blumenkasten/discussions)|[:grey_question:WiKi](https://github.com/frankyhub/Blumenkasten/blob/main/wiki.md)| ||
 |--|--|--|--|--|
 | | | | | |
 |![Static Badge](https://img.shields.io/badge/RepoNr.:-%20117-blue)|<a href="https://github.com/frankyhub/Blumenkasten/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/Blumenkasten)|<a href="https://github.com/frankyhub/Blumenkasten/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/Blumenkasten)|<a href="https://github.com/frankyhub/Blumenkasten/releases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/Blumenkasten)|<a href="https://github.com/frankyhub/Blumenkasten/" title="Last Commit"><img src="https://img.shields.io/github/last-commit/frankyhub/Blumenkasten?style=flat"></a>|
