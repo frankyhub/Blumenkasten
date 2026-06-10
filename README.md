@@ -10,7 +10,6 @@
 |![Static Badge](https://img.shields.io/badge/RepoNr.:-%20117-blue)|<a href="https://github.com/frankyhub/Blumenkasten/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/Blumenkasten)|<a href="https://github.com/frankyhub/Blumenkasten/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/Blumenkasten)|<a href="https://github.com/frankyhub/Blumenkasten/releases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/Blumenkasten)|<a href="https://github.com/frankyhub/Blumenkasten/" title="Last Commit"><img src="https://img.shields.io/github/last-commit/frankyhub/Blumenkasten?style=flat"></a>|
 |![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/Blumenkasten)| <a href="https://github.com/frankyhubBlumenkasten/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/Blumenkasten/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)|<a href="https://github.com/frankyhub/Blumenkasten/blob/master/LICENSE" title="License"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat"></a>||
 
-![Bild](pic/object.png)
 
 </div>
 
@@ -20,6 +19,7 @@
 ![pic](pic/Blumenkasten0.png)
 
 ![pic](pic/Blumenkasten2.png)
+
 ---
 
 <div style="position:absolute; left:2cm; ">   
