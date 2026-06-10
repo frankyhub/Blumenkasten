@@ -13,13 +13,6 @@
 
 </div>
 
-<p align="center">
-  <a href="https://github.com/Frankyhub/Blumenkasten/releases/">
-    <img alt="Releases" src="https://img.shields.io/github/v/release/Frankyhub/Blumenkasten]?label=release&logo=DocuSign&logoColor=%23fff&style=for-the-badge" />
-  </a>
-  <a href=""><img alt="" src="" /></a>
-  <a href=""><img alt="" src="" /></a>
-</p>
 
 ![pic](pic/Blumenkasten.png)
 
