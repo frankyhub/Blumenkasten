@@ -1,24 +1,25 @@
 <a name="oben"></a>
 
-# Blumenkasten aus Holz
-
 <div align="center">
-  
-|[:skull:ISSUE](https://github.com/frankyhub/Blumenkasten/issues)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/Blumenkasten/discussions)|[:grey_question:WiKi](https://github.com/frankyhub/Blumenkasten/blob/main/wiki.md)| |
+
+|[:skull:ISSUE](https://github.com/frankyhub/Blumenkasten/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/Blumenkasten/discussions)|[:grey_question:WiKi](https://github.com/frankyhub/Blumenkasten/wiki)||
 |--|--|--|--|
-| | | | | 
-|![Static Badge](https://img.shields.io/badge/RepoNr.:-%20117-blue)|<a href="https://github.com/frankyhub/Blumenkasten/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/Blumenkasten)|<a href="https://github.com/frankyhub/Blumenkasten/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/Blumenkasten)|<a href="https://github.com/frankyhub/Blumenkasten/releases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/Blumenkasten)| 
-|![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/Blumenkasten)| <a href="https://github.com/frankyhubBlumenkasten/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/Blumenkasten/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)| |
+| | | | |
+<a href="https://github.com/frankyhub/Blumenkasten/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/Blumenkasten)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/Blumenkasten)|<a href="https://github.com/frankyhub/Blumenkasten/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/Blumenkasten)|<a href="https://github.com/frankyhub/Blumenkasten/6eleases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/Blumenkasten)|![Static Badge](https://img.shields.io/badge/RepoNr.:-%20117-blue)|
+|![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/Blumenkasten)| <a href="https://github.com/frankyhub/Blumenkasten/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/Blumenkasten/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)||
+
 
 
 </div>
 
+<img src="pic/Blumenkasten.png" width="500"> 
+<br> <br>
 
-![pic](pic/Blumenkasten.png)
+<img src="pic/Blumenkasten0.png" width="500"> 
+<br> <br>
 
-![pic](pic/Blumenkasten0.png)
-
-![pic](pic/Blumenkasten2.png)
+<img src="pic/Blumenkasten2.png" width="500"> 
+<br> <br>
 
 ---
 
